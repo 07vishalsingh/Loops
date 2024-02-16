@@ -23,9 +23,11 @@ Exploring various Python libraries and frameworks for different application doma
 Get in Touch
 If you have any questions, suggestions, or feedback, feel free to reach out! Let's connect and learn together. 🚀
 
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 Connect with Me
 Portfolio
 LinkedIn
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
