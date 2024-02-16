@@ -20,6 +20,7 @@ My primary objectives in this Python learning journey include:
 Building a solid foundation in Python programming fundamentals.
 Gaining proficiency in problem-solving and algorithmic thinking.
 Exploring various Python libraries and frameworks for different application domains.
+
 Connect with Me
 Portfolio
 LinkedIn
