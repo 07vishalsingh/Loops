@@ -20,12 +20,12 @@ My primary objectives in this Python learning journey include:
 Building a solid foundation in Python programming fundamentals.
 Gaining proficiency in problem-solving and algorithmic thinking.
 Exploring various Python libraries and frameworks for different application domains.
+Get in Touch
+If you have any questions, suggestions, or feedback, feel free to reach out! Let's connect and learn together. 🚀
 
 Connect with Me
 Portfolio
 LinkedIn
-Feel free to reach out with any questions, suggestions, or feedback! Let's connect and learn together. 🚀
-
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
